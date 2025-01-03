@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Commute:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Commute_jar</output-path>
+    <root id="archive" name="Commute.jar">
+      <element id="module-output" name="Commute" />
+    </root>
+  </artifact>
+</component>
